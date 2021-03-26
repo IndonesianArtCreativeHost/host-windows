@@ -1,2 +1,2 @@
 # host-windows
-DC: AblehDexter#3691
+Discord: AblehDexter#3691
